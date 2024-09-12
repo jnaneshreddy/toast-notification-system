@@ -26,7 +26,7 @@ const ToastMessage = styled.div`
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 `;
 
-// Toast Icon (optional)
+// Toast Icon if required
 const Icon = styled.div`
   margin-right: 10px;
 `;
